@@ -18,31 +18,36 @@
 ---
 
 <div align="center">
-  <img src="./December_Meme.png" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
-  <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2025! 🥳
+  <img src="./Jan_meme.png" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
+  <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2026! 🥳
 </div>
 
 <div align="center">
 <br>
-<b>🎄 December @ IEEE VIT slips in like Stranger Things, festive on the outside, upside-down levels of productivity inside. 🌌</b>
+<b>🛳️ January @ IEEE VIT sets sail with fresh momentum, vibrant energy on the surface, engineered systems powering everything below deck. ⚙️</b>
 </div>
 
 <div align="center">
   <br>
-  🎁 This December, we don’t slow down, we level up. 🎁 <br>
-  ✨ Finish that feature lurking in your backlog like a Demogorgon in the dark, refactor that code haunting your repo since mid-sem, and ship something that deserves a spot on Santa’s “Epic Commits” list. ✨
+  🌴 Fresh start. Smooth workflows. Zero chaos. 🌴 <br>
+  ✨ January isn’t just about taking a break, it’s about building tech that runs effortlessly in the background. Clean architectures, reliable pipelines, well tested features, and code that stays calm even when traffic spikes. ✨
 </div>
 
 <div align="center">
   <br>
-  <br>“Code is like the Upside Down, mysterious, unpredictable, and wildly fun.
-  <br>Stay brave, stay curious, and remember: even when things break… friends don’t let friends debug alone.” 🔦</code> 
+  <br>“Great engineering is like a perfect vacation cruise 
+  <br>everything looks easy, but it’s powered by precision.
+  <br>Clear ownership, thoughtful design, and teamwork that keeps things moving.
+  <br>Because when systems are built right… users just enjoy the ride.” 🚢💻
 </div>
+
 <div align="center">
-  <a>⚔️</a>
+  <a>⚓</a>
 </div>
 
 <div align="center">
 
-  <a href="https://youtu.be/O5HQ1sZseKg?si=R86hSO4wfFsB5tRg&t=93" target="_blank">🎄</a>
+
+
+  <a href="https://youtu.be/AUWgzmwluJE?si=MbdvkHVyMTg6EdBQ&t=42" target="_blank">🧛🏼</a>
 </div>
