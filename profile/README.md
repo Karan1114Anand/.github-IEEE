@@ -18,36 +18,39 @@
 ---
 
 <div align="center">
-  <img src="./Jan_meme.png" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
+  <img src="./feb_meme.jpg" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2026! 🥳
 </div>
 
 <div align="center">
 <br>
-<b>🛳️ January @ IEEE VIT sets sail with fresh momentum, vibrant energy on the surface, engineered systems powering everything below deck. ⚙️</b>
+<b>💘 February @ IEEE VIT is built on connection, commitment, and care.
+ ⚙️</b>
 </div>
 
 <div align="center">
   <br>
-  🌴 Fresh start. Smooth workflows. Zero chaos. 🌴 <br>
-  ✨ January isn’t just about taking a break, it’s about building tech that runs effortlessly in the background. Clean architectures, reliable pipelines, well tested features, and code that stays calm even when traffic spikes. ✨
+ Passion on the surface, thoughtfully engineered systems holding everything together below. ⚙️</br>
+
+ <br>Strong bonds. Clean workflows. Zero heartbreak. 💞</br>
+✨ February isn’t just about celebration it’s about building tech with intention. Architectures designed with care, pipelines that never ghost, well-tested features, and code that stays loyal even when traffic surges. ✨
 </div>
 
 <div align="center">
   <br>
-  <br>“Great engineering is like a perfect vacation cruise 
-  <br>everything looks easy, but it’s powered by precision.
-  <br>Clear ownership, thoughtful design, and teamwork that keeps things moving.
-  <br>Because when systems are built right… users just enjoy the ride.” 🚢💻
+  <br>“Great engineering is like a great relationship
+  <br>it’s built on trust, consistency, and communication.
+  <br>Clear ownership. Thoughtful design. Teams that support each other.
+  <br>Because when systems are built with love… users feel it.”
 </div>
 
 <div align="center">
-  <a>⚓</a>
+  <a> 💻</a>
 </div>
 
 <div align="center">
 
 
 
-  <a href="https://youtu.be/AUWgzmwluJE?si=MbdvkHVyMTg6EdBQ&t=42" target="_blank">🧛🏼</a>
+  <a href="https://youtu.be/tD4HCZe-tew?si=TviXIpl9UX-8cbkf&t=123" target="_blank">💕</a>
 </div>
