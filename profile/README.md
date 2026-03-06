@@ -18,30 +18,29 @@
 ---
 
 <div align="center">
-  <img src="./feb_meme.jpg" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
+  <img src="./march_meme.jpg" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2026! 🥳
 </div>
 
 <div align="center">
 <br>
-<b>💘 February @ IEEE VIT is built on connection, commitment, and care.
- ⚙️</b>
+<b>🌸 March @ IEEE VIT is built on fresh ideas, new beginnings, and steady growth. ⚙️</b>
 </div>
 
 <div align="center">
   <br>
- Passion on the surface, thoughtfully engineered systems holding everything together below. ⚙️</br>
+ Spring on the surface, thoughtfully engineered systems quietly powering everything underneath. ⚙️</br>
 
- <br>Strong bonds. Clean workflows. Zero heartbreak. 💞</br>
-✨ February isn’t just about celebration it’s about building tech with intention. Architectures designed with care, pipelines that never ghost, well-tested features, and code that stays loyal even when traffic surges. ✨
+ <br>New blooms. Clean workflows. Zero chaos. 🌱</br>
+✨ March isn’t just about the season changing it’s about refreshing the way we build. Architectures that evolve, pipelines that stay alive through every iteration, well-tested features, and code that grows stronger with every commit. ✨
 </div>
 
 <div align="center">
   <br>
-  <br>“Great engineering is like a great relationship
-  <br>it’s built on trust, consistency, and communication.
+  <br>“Great engineering is like springtime
+  <br>it starts with small seeds of ideas and grows through collaboration.
   <br>Clear ownership. Thoughtful design. Teams that support each other.
-  <br>Because when systems are built with love… users feel it.”
+  <br>Because when systems are built to grow… users feel it.”
 </div>
 
 <div align="center">
@@ -52,5 +51,5 @@
 
 
 
-  <a href="https://youtu.be/tD4HCZe-tew?si=TviXIpl9UX-8cbkf&t=123" target="_blank">💕</a>
+  <a href="https://youtu.be/1oZ4aKydbIY?si=hJCaOW2ZAl3IKSSE" target="_blank">🌸</a>
 </div>
