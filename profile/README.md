@@ -18,29 +18,29 @@
 ---
 
 <div align="center">
-  <img src="./march_meme.jpg" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
+  <img src="./april_meme.jpg" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2026! 🥳
 </div>
 
 <div align="center">
 <br>
-<b>🌸 March @ IEEE VIT is built on fresh ideas, new beginnings, and steady growth. ⚙️</b>
+<b>🌼 April @ IEEE VIT is about momentum, clarity, and building systems that scale with purpose. ⚙️</b>
 </div>
 
 <div align="center">
   <br>
- Spring on the surface, thoughtfully engineered systems quietly powering everything underneath. ⚙️</br>
+  Fresh energy on the surface, resilient systems steadily evolving underneath. ⚙️</br>
 
- <br>New blooms. Clean workflows. Zero chaos. 🌱</br>
-✨ March isn’t just about the season changing it’s about refreshing the way we build. Architectures that evolve, pipelines that stay alive through every iteration, well-tested features, and code that grows stronger with every commit. ✨
+  <br>Stronger foundations. Smoother workflows. Consistent progress. 🌱</br>
+  ✨ April isn’t just about growth—it’s about refining how we build. Architectures that adapt, pipelines that stay reliable across iterations, well-tested features, and code that becomes more robust with every commit. ✨
 </div>
 
 <div align="center">
   <br>
-  <br>“Great engineering is like springtime
-  <br>it starts with small seeds of ideas and grows through collaboration.
-  <br>Clear ownership. Thoughtful design. Teams that support each other.
-  <br>Because when systems are built to grow… users feel it.”
+  <br>“Great engineering is built on momentum and clarity
+  <br>it improves through iteration, ownership, and intent
+  <br>Strong systems. Clean execution. Teams that move forward together
+  <br>Because when we build with purpose… every experience feels seamless.”
 </div>
 
 <div align="center">
@@ -51,5 +51,5 @@
 
 
 
-  <a href="https://www.youtube.com/watch?v=R9tTuRm06QU" target="_blank">🌸</a>
+  <a href="https://youtu.be/7IBDa53IsvI?si=FT9G62QWdf37my-M&t=6" target="_blank">🌸</a>
 </div>
