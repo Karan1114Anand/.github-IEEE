@@ -18,29 +18,28 @@
 ---
 
 <div align="center">
-  <img src="./april_meme.jpg" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
+  <img src="./May_meme.png" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2026! 🥳
 </div>
-
-<div align="center">
 <br>
-<b>🌼 April @ IEEE VIT is about momentum, clarity, and building systems that scale with purpose. ⚙️</b>
+<div align="center">
+  <b>🌼 May @ IEEE VIT is about execution, refinement, and building with intent. ⚙️</b>
 </div>
 
 <div align="center">
   <br>
-  Fresh energy on the surface, resilient systems steadily evolving underneath. ⚙️</br>
+  Fresh ideas taking shape, stronger systems moving forward with clarity.</br>
 
-  <br>Stronger foundations. Smoother workflows. Consistent progress. 🌱</br>
-  ✨ April isn’t just about growth—it’s about refining how we build. Architectures that adapt, pipelines that stay reliable across iterations, well-tested features, and code that becomes more robust with every commit. ✨
+  <br>Cleaner workflows. Smarter iterations. Purposeful progress.</br>
+  ✨ May isn’t just about moving fast, it’s about improving how we execute. From thoughtful planning to reliable pipelines, well tested features, and scalable systems, every commit reflects ownership, clarity, and intent. ✨
 </div>
 
 <div align="center">
   <br>
-  <br>“Great engineering is built on momentum and clarity
-  <br>it improves through iteration, ownership, and intent
-  <br>Strong systems. Clean execution. Teams that move forward together
-  <br>Because when we build with purpose… every experience feels seamless.”
+  <br>“Great engineering is built through focus and consistency
+  <br>it grows through iteration, teamwork, and intent
+  <br>Strong systems. Clean execution. Purposeful progress
+  <br>Because when we build with clarity… every experience becomes stronger.”
 </div>
 
 <div align="center">
@@ -48,8 +47,20 @@
 </div>
 
 <div align="center">
+  <h3>Featured Project</h3>
 
+  <b>BubbleHead</b>
 
+  <br>
+  BubbleHead is a local first Retrieval Augmented Generation (RAG) system that prioritizes privacy, accuracy, and research friendly design. It combines ChromaDB for vector storage, BM25 for hybrid retrieval, and an iterative gap analysis engine to handle complex queries across multiple document formats.
+  </br>
 
-  <a href="https://youtu.be/7IBDa53IsvI?si=FT9G62QWdf37my-M&t=6" target="_blank">🌸</a>
+  <br>
+  🔗 <b>Project Link:</b> <a href="https://github.com/IEEE-VIT/BubbleHead.git">View Project</a>
+  </br>
+</div>
+
+<div align='center'>
+
+  <a href="https://youtu.be/oRdxUFDoQe0?si=c8kA8zKuzf3B87w_&t=107" target="_blank">🕺🏼</a>
 </div>
