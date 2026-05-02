@@ -47,7 +47,7 @@
 </div>
 
 <div align="center">
-  <h3>Featured Project</h3>
+  <h3>Featured Project of the Month</h3>
 
   <b>BubbleHead</b>
 
