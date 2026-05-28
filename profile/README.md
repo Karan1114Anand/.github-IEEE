@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  IEEE VIT is a community comprising the most persevering of student developers, designers, and managers. Our ever-growing arsenal of projects covers a range of domains and technologies, from Web Development and App Development to Machine Learning and Electronics. 
+  IEEE VIT is a community comprising the most persevering of student developers, designers, and managers. Our ever-growing arsenal of projects covers a range of domains and technologies, from Web Development and App Development to Machine Learning and Electronics.
 </p>
 
 <p align="center">
@@ -18,28 +18,28 @@
 ---
 
 <div align="center">
-  <img src="./May_meme.png" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
+  <img src="./June_meme.png" alt="IEEE Hacktober Meme" style="width: 50%; height: auto;">
   <br><br>IEEE offers a range of exciting projects across diverse disciplines, ready for your innovative touch in 2026! 🥳
 </div>
 <br>
 <div align="center">
-  <b>🌼 May @ IEEE VIT is about execution, refinement, and building with intent. ⚙️</b>
+  <b>🌞 June @ IEEE VIT is about momentum, collaboration, and building what lasts. 🚀⚙️</b>
 </div>
 
 <div align="center">
   <br>
-  Fresh ideas taking shape, stronger systems moving forward with clarity.</br>
+  Fresh energy, stronger foundations, and systems that scale with purpose. Bolder ideas. Deeper ownership. Meaningful impact. ✨</br>
 
-  <br>Cleaner workflows. Smarter iterations. Purposeful progress.</br>
-  ✨ May isn’t just about moving fast, it’s about improving how we execute. From thoughtful planning to reliable pipelines, well tested features, and scalable systems, every commit reflects ownership, clarity, and intent. ✨
+  <br>June isn't just about shipping faster.</br>
+  ✨ It's about building smarter.
+From cross functional collaboration to battle tested architectures, optimized pipelines, and features that hold under pressure, every line of code reflects ambition, craftsmanship, and teamwork. ✨
 </div>
 
 <div align="center">
   <br>
-  <br>“Great engineering is built through focus and consistency
-  <br>it grows through iteration, teamwork, and intent
-  <br>Strong systems. Clean execution. Purposeful progress
-  <br>Because when we build with clarity… every experience becomes stronger.”
+  <br>“Great engineering is never built alone it grows through shared vision and collective effort.
+  <br>It scales through trust, curiosity, and the courage to iterate. Strong teams. Scalable systems. Lasting impact.
+  <br>Because when we build together… every solution becomes something bigger.”
 </div>
 
 <div align="center">
@@ -49,18 +49,18 @@
 <div align="center">
   <h3>Featured Project of the Month</h3>
 
-  <b>BubbleHead</b>
+  <b>VevoNFT</b>
 
   <br>
-  BubbleHead is a local first Retrieval Augmented Generation (RAG) system that prioritizes privacy, accuracy, and research friendly design. It combines ChromaDB for vector storage, BM25 for hybrid retrieval, and an iterative gap analysis engine to handle complex queries across multiple document formats.
+  VevoNFT is a decentralized NFT platform that prioritizes seamless deployment, secure asset sharing, and testnet reliability. It combines Solidity smart contracts for ERC-721 token standards, Pinata (IPFS) for immutable data storage via CID hashes, and an integrated blockchain workflow to handle minting, management, and transfers across Remix IDE and MetaMask.
   </br>
 
   <br>
-  🔗 <b>Project Link:</b> <a href="https://github.com/IEEE-VIT/BubbleHead.git">View Project</a>
+  🔗 <b>Project Link:</b> <a href="https://github.com/IEEE-VIT/VevoNFT">View Project</a>
   </br>
 </div>
 
 <div align='center'>
 
-  <a href="https://youtu.be/oRdxUFDoQe0?si=c8kA8zKuzf3B87w_&t=107" target="_blank">🕺🏼</a>
+  <a href="https://youtu.be/NJh5idlanrc?si=zkOhqTQIue8w5GML" target="_blank">🕺🏼</a>
 </div>
